@@ -1,1 +1,0 @@
-Frontend do AmoraMatch - React + Tailwind
